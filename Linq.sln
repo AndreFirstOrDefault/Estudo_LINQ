@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginacaoSkipTake", "Pagina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeGeracao", "OperadoresDeGeracao\OperadoresDeGeracao.csproj", "{02A4700F-9108-48BD-9696-C0F0C2EC2A17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendTPrependTZip", "AppendTPrependTZip\AppendTPrependTZip.csproj", "{7B1AFEA7-CF80-4AE2-B25A-34B027EFA510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeConversao2", "OperadoresDeConversao2\OperadoresDeConversao2.csproj", "{1C2F123B-A770-440D-A8A6-4D3B6A845EA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{02A4700F-9108-48BD-9696-C0F0C2EC2A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02A4700F-9108-48BD-9696-C0F0C2EC2A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02A4700F-9108-48BD-9696-C0F0C2EC2A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1AFEA7-CF80-4AE2-B25A-34B027EFA510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1AFEA7-CF80-4AE2-B25A-34B027EFA510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1AFEA7-CF80-4AE2-B25A-34B027EFA510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1AFEA7-CF80-4AE2-B25A-34B027EFA510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2F123B-A770-440D-A8A6-4D3B6A845EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2F123B-A770-440D-A8A6-4D3B6A845EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2F123B-A770-440D-A8A6-4D3B6A845EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2F123B-A770-440D-A8A6-4D3B6A845EA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
